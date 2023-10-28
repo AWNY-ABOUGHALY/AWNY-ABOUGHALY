@@ -5,6 +5,8 @@
 
 <p>I'm passionate about learning and development with a desire to apply skills on my works, eager to tackle more complex problems and continue to find ways to maximize user efficiency, I just want to say that <strong>I enjoy what I do!</strong></p>
 
+<a href='https://drive.google.com/file/d/1DZ2GOTe-OYmZbY1Sv0pQ1EQl3qfmnxRO/view' target="_blank"><button>PREVIEW MY CV</button></a>
+
 ![](https://komarev.com/ghpvc/?username=AWNY-ABOUGHALY)
 
 <!--
