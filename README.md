@@ -1,22 +1,15 @@
-<div  align="center">
+<div align="center">
 <strong>Hi there, 👋</strong>
-
-<h2>I'm Awny Aboughaly</h2>
+<h3>I'm Awny Aboughaly</h3>
 <strong>Front-end Developer</strong>
 <p>Vue | React</p>
 </div>
 
-<p>I'm passionate about learning and development with a desire to apply skills on my works, eager to tackle more complex problems and continue to find ways to maximize user efficiency, I just want to say that <strong>I enjoy what I do!</strong></p>
+> I'm passionate about learning and development with a desire to apply skills on my works, eager to tackle more complex problems and continue to find ways to maximize user efficiency, I just want to say that <strong>I enjoy what I do!</strong>
 
 <a href='https://drive.google.com/file/d/1DZ2GOTe-OYmZbY1Sv0pQ1EQl3qfmnxRO/view' target="_blank"><button>PREVIEW MY CV</button></a>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/awnyaboughaly"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://twitter.com/AWNYABOUGHALY"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/AWNY-ABOUGHALY"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://github.com/sponsors/AWNY-ABOUGHALY"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-	<a href="https://drive.google.com/file/d/1DZ2GOTe-OYmZbY1Sv0pQ1EQl3qfmnxRO/view"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-</p>
+<i align="center">Happy Coding!</i> 😊
 
 [![GitHub followers](https://img.shields.io/github/followers/AWNY-ABOUGHALY.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AWNY-ABOUGHALY?tab=followers)
 
