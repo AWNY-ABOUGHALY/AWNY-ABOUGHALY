@@ -1,11 +1,17 @@
 <h4 align="center">Hi there, 👋</h4>
-$\color{green}{test}$
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-
 <h3 align="center">I'm Awny Aboughaly</h3>
 <p align="center"><strong>Front-end Developer</strong></p>
 <div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="20" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" /></div>
 <br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
+    <text x="0" y="15" fill="#4285f4">G</text>
+    <text x="12" y="15" fill="#ea4335">o</text>
+    <text x="21" y="15" fill="#fbbc05">o</text>
+    <text x="30" y="15" fill="#4285f4">g</text>
+    <text x="40" y="15" fill="#389738">l</text>
+    <text x="45" y="15" fill="#ea4335">e</text>
+</svg>
 
 > I'm passionate about learning and development with a desire to apply skills on my works, eager to tackle more complex problems and continue to find ways to maximize user efficiency, I just want to say that <strong>I enjoy what I do!</strong>
 
