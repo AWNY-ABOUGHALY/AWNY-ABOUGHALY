@@ -1,8 +1,9 @@
-<strong align="center">Hi there, 👋</strong>
+<p align="center"><strong>Hi there, 👋</strong></p>
 
 <h3 align="center">I'm Awny Aboughaly</h3>
-<strong align="center">Front-end Developer</strong>
-<div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="25" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></div>
+<p align="center"><strong>Front-end Developer</strong></p>
+<div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="20" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" /></div>
+<br/><br/>
 
 > I'm passionate about learning and development with a desire to apply skills on my works, eager to tackle more complex problems and continue to find ways to maximize user efficiency, I just want to say that <strong>I enjoy what I do!</strong>
 
