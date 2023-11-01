@@ -1,6 +1,4 @@
-```diff
-+ <h4 align="center">Hi there, 👋</h4>
-```
+# <h4 align="center">Hi there, 👋</h4>
 
 <h3 align="center">I'm Awny Aboughaly</h3>
 <p align="center"><strong>Front-end Developer</strong></p>
