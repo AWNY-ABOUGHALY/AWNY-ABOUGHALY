@@ -1,4 +1,4 @@
-<h4 align="center" style="color:red">Hi there, 👋</h4>
+<h4 align="center"><span style="color:red">Hi there, 👋</span></h4>
 <h3 align="center">I'm Awny Aboughaly</h3>
 <h4 align="center">Front-end Developer</h4>
 <div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="25" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></div>
