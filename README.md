@@ -1,9 +1,10 @@
-<div align="center">
-<h4>Hi there, 👋</h4>
-<h3>I'm Awny Aboughaly</h3>
-<h4>Front-end Developer</h4>
-<h5>Vue | React</h5>
-</div>
+<h4 align="center">
+  Hi there, 👋
+  <h3>I'm Awny Aboughaly</h3>
+  Front-end Developer
+  [<img src="https://img.shields.io/badge/Vue-282C34?logo=Vue&logoColor=61DAFB" alt="Vue logo" title="Vue" height="25" />][tech_tools_anchor] | [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+
+</h4>
 
 - 🔭 I’m currently working on ...
 
@@ -11,7 +12,7 @@
 
 <a href='https://drive.google.com/file/d/1DZ2GOTe-OYmZbY1Sv0pQ1EQl3qfmnxRO/view' target="_blank"><button>PREVIEW MY CV</button></a>
 
---
+---
 
 <i>Follow me on</i>📫<br>
 
@@ -25,5 +26,3 @@
 ![](https://komarev.com/ghpvc/?username=AWNY-ABOUGHALY) [![GitHub followers](https://img.shields.io/github/followers/AWNY-ABOUGHALY.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AWNY-ABOUGHALY?tab=followers)
 
 <i align="center">Happy Coding!</i> 😊
-
-- 🌱 I’m currently learning ...
