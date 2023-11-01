@@ -1,6 +1,6 @@
-#### <span align="center">Hi there, 👋</span>
+#### <div align="center">Hi there, 👋</div>
 
-### <span align="center">I'm Awny Aboughaly</span>
+### <div align="center">I'm Awny Aboughaly</div>
 
 <p align="center"><strong>Front-end Developer</strong></p>
 <div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="20" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" /></div>
