@@ -1,4 +1,4 @@
-# <p align="center"><strong>Hi there, 👋</strong></p>
+### Hi there, 👋
 
 <h3 align="center">I'm Awny Aboughaly</h3>
 <p align="center"><strong>Front-end Developer</strong></p>
