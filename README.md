@@ -1,5 +1,5 @@
-<h4 align="center">Hi there, 👋</h4>
-<h3 align="center">I'm Awny Aboughaly</h3>
+<h4 align="center" color="red">Hi there, 👋</h4>
+<h3 align="center" style="color:black">I'm Awny Aboughaly</h3>
 <p align="center"><strong>Front-end Developer</strong></p>
 <div align="center"><img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue logo" title="Vue" height="20" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" /></div>
 <br/>
